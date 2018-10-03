@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/dadmoscow/netbox_reports/badge)](https://www.codefactor.io/repository/github/dadmoscow/netbox_reports)
 # Custom [Netbox](https://github.com/digitalocean/netbox) Reports
 ---
 ## Reports
